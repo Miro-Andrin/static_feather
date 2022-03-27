@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "core/feather_plugin",
+    "core/server_builder",
+    "core/server_runner",
+    "core_plugins/protocol_connection",
+    "example"
+]
